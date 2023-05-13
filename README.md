@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" width="1000"/>
 </dev>
   
-<div align="center" >  
+
+<dev><h1 align="center">Backend skills</h1>   
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
