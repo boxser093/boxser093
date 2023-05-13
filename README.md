@@ -8,11 +8,8 @@
 </dev>
 <hr/>
 
-<div  align="left">
-I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.
-</dev>
-
-<div align="left" padding="20px">
+<div align="left">
+<p> I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Russia.</p>
 <p>- :telescope: I’m studing for a backend developer.</p>
 <p>- :seedling: Learning programing language java.</p>
 <p>- :zap: I study the Java programming language, solve problems on Codewars in my free time, as well as study other assistive technologies and create interesting projects to automate my working time.</p>
