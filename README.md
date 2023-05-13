@@ -13,7 +13,7 @@ I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <div align="left">
 <p>- :telescope: I’m studing for a backend developer.</p>
 <p>- :seedling: Learning programing language java.</p>
-<p>- :zap: Studying the java programming language in my free time, I solve problems on Codewars and read technical articles, and create auxiliary programs..</p>
+<p>- :zap: I study the Java programming language, solve problems on Codewars in my free time, as well as study other assistive technologies and create interesting projects to automate my working time.</p>
 <p>- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"> <title="profile" src=""></p>
 </div>
 <hr/>
