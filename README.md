@@ -39,6 +39,7 @@
 <h3 align="left"> My achievements
 <div align="left">
 <img src="https://github.r2v.ch/codewars?user=box_ser093&theme=gradient" width="400" height="200"/>
+<img src="https://github.com/boxser093/boxser093/blob/main/JavaRush.jpg" width="400" height="400"/>
 </div> 
 </h3>
 
