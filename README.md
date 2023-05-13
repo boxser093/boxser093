@@ -6,7 +6,7 @@
 <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Just+code+it" title="title" alt="TitleBannerActive" width="1000" height="40"/>&nbsp;
 </dev>
-
+<hr/>
 <div align="left">
 I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia.
 </dev>
