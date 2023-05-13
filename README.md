@@ -11,9 +11,9 @@
 I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia.
 </dev>
 <div align="left">
-<p>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</p>
-<p>- :seedling: Exploring Technical Content Writing.</p>
-<p>- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</p>
+<p>- :telescope: I’m studing for a backend developer.</p>
+<p>- :seedling: Learning programing language java.</p>
+<p>- :zap: Studying the java programming language in my free time, I solve problems on Codewars and read technical articles, and create auxiliary programs..</p>
 <p>- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"> <title="profile" src=""></p>
 </div>
 <hr/>
