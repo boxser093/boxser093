@@ -39,7 +39,9 @@ I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 </div>  
 
 <h3 align="left"> My achievements
- <img src="https://github.r2v.ch/codewars?user=IlyaPredvechnyy" width="400" height="200"/>
- </h3>
+<div align="left">
+<img src="https://github.r2v.ch/codewars?user=IlyaPredvechnyy" width="400" height="200"/>
+</div> 
+</h3>
 
  
