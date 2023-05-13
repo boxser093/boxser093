@@ -1,6 +1,8 @@
 
 <h1 align="left">Hi there, I'm Ilya
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/>
+</h1>
+
 <div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" title="title" alt="TitleBannerActive" width="1000" height="40"/>&nbsp;
 </dev>
