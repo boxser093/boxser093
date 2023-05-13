@@ -4,6 +4,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" width="1000"/>
 </dev>
 <dev align="center">
-  <img scr="https://github-profile-trophy.vercel.app/?username=boxser093">
-[![trophy]()](https://github.com/boxser093/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=boxser093)](https://github.com/boxser093/github-profile-trophy)
 </dev>
