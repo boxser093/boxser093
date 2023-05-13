@@ -9,7 +9,7 @@
 <hr/>
 <div align="left">
 I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia.
-</dev>
+</dev  margin-bottom: 30px>
 <div align="left">
 <p>- :telescope: I’m studing for a backend developer.</p>
 <p>- :seedling: Learning programing language java.</p>
