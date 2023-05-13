@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ilya, a java backend developer 👨‍💻.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/boxser093/TG_BotForWB)  
+- 🔭 I’m currently working on [TG BOT](https://github.com/boxser093/TG_BotForWB)  
   
 
-- 🌱 I’m currently learning   
+- 🌱 I’m currently learning more and more lections on javarush
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -23,16 +23,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-  
-</div>
-
-</td><td valign="top" width="33%">
-
 
 
 ### Backend  
