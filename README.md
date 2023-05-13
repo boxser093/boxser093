@@ -7,6 +7,7 @@
 
 <div align="left">
 I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
 </dev>
 <div align="left">
 <p>- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.</p>
