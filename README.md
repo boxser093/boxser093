@@ -4,6 +4,18 @@
 <div align="right">
   <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" width="1000"/>
 </dev>
+
+I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+
 <div align="left">
 :hammer_and_wrench: Languages and Tools : 
 </div>
