@@ -38,3 +38,8 @@ I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 <img src="https://github-readme-stats.vercel.app/api?username=boxser093&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 
+<h3 align="left"> My achievements
+ <img src="https://github.r2v.ch/codewars?user=IlyaPredvechnyy" width="400" height="200"/>
+ </h3>
+
+ 
