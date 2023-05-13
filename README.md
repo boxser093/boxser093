@@ -4,7 +4,7 @@
 </h1>
 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Just+code+it" title="title" alt="TitleBannerActive" width="1000" height="40"/>&nbsp;
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Just+code+it" alt="Typing SVG" /></a>
 </dev>
 <hr/>
 <div align="left">
