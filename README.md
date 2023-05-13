@@ -4,7 +4,7 @@
 </h1>
 
 <div align="left">
-<img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" title="title" alt="TitleBannerActive" width="1000" height="40"/>&nbsp;
+<img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Just+code+it" title="title" alt="TitleBannerActive" width="1000" height="40"/>&nbsp;
 </dev>
 
 <div align="left">
