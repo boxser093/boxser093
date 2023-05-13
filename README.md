@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, I'm Ilya
+<h1 align="left">Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24"/></h1>
-<div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" width="1000"/>
+<div align="left">
+<img src="https://readme-typing-svg.herokuapp.com?color=%8B008B&lines=Java+backend+developer+from+Russia" title="title" alt="TitleBannerActive" width="500" height="40"/>&nbsp;
 </dev>
 
 <div align="left">
@@ -32,5 +32,8 @@ I am a Java Beckend Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bush" **alt="Bush" width="40" height="40"/>
 </div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=boxser093&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=boxser093&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
