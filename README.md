@@ -13,7 +13,7 @@
 <p>- :telescope: I'm learning the java language.</p>
 <p>- :seedling: Learning other framework.</p>
 <p>- :zap: I study the Java programming language, solve problems on Codewars in my free time, as well as study other assistive technologies and create interesting projects to automate my working time.</p>
-<p>- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-ищчыук093-blue?style=flat&logo=Linkedin&logoColor=white"> <title="profile" src=""></p>
+<p>- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-boxser093-blue?style=flat&logo=Linkedin&logoColor=white"> <title="profile" src=""></p>
 </div>
 <hr/>
 <div align="left">
