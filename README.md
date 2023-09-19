@@ -10,8 +10,8 @@
 
 <div align="left">
 <p> I want to be a backend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
-<p>- :telescope: I'm learning the java language and other frameworks.</p>
-<p>- :seedling: Learning programing language java.</p>
+<p>- :telescope: I'm learning the java language.</p>
+<p>- :seedling: Learning other framework.</p>
 <p>- :zap: I study the Java programming language, solve problems on Codewars in my free time, as well as study other assistive technologies and create interesting projects to automate my working time.</p>
 <p>- :mailbox:How to reach me: <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white"> <title="profile" src=""></p>
 </div>
